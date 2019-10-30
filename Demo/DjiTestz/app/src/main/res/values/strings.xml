@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Testz</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="disconnected">Bağlantı Sağlanamadı</string>
+    <string name="product_information">Bilgiler</string>
+    <string name="connection_loose">Durum: Baglantı yok</string>
+    <string name="sdk_version">DJI SDK Version: %1$s</string>
+    <string name="tv_save">Save</string>
+    <string name="tv_send">Send</string>
+
+
+
+</resources>
